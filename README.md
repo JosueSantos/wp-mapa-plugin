@@ -13,7 +13,7 @@ O **Mapa de Igrejas** é um plugin que permite cadastrar igrejas católicas no W
 
 ---
 
-## Description
+## Decrição
 
 O plugin oferece uma forma prática de gerenciar informações de igrejas e disponibilizá-las visualmente em um mapa:
 
@@ -30,7 +30,7 @@ O plugin oferece uma forma prática de gerenciar informações de igrejas e disp
 
 ---
 
-## Installation
+## Instalação
 
 1. Faça o upload da pasta `mapa-igrejas` para o diretório `/wp-content/plugins/`.
 2. Ative o plugin no menu **Plugins** do WordPress.
@@ -41,7 +41,7 @@ O plugin oferece uma forma prática de gerenciar informações de igrejas e disp
 
 ---
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
 ### Preciso de uma chave de API do Google Maps?
 Não. O plugin utiliza **OpenStreetMap via Leaflet**, totalmente gratuito.
@@ -70,14 +70,7 @@ Sim. O mapa detecta a localização do visitante (com permissão) e destaca visu
 
 ---
 
-## Upgrade Notice
-
-### 1.0
-Primeira versão estável do plugin.
-
----
-
-## Credits
+## Créditos
 
 Inspirado no projeto [Católico Cristão](https://catolicocristao.github.io/).  
 Desenvolvido com [Leaflet](https://leafletjs.com/) e [OpenStreetMap](https://www.openstreetmap.org/).  
