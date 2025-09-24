@@ -6,9 +6,10 @@ function mmi_register_cpt() {
             'singular_name' => 'Igreja'
         ),
         'public' => true,
-        'has_archive' => false,
+        'has_archive' => true,
+        'show_in_rest' => true,
         'menu_icon' => 'dashicons-location',
-        'supports' => array('title', 'thumbnail')
+        'supports' => array('title', 'editor', 'thumbnail', 'excerpt')
     ));
 }
 add_action('init', 'mmi_register_cpt');

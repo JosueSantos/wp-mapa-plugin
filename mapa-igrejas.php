@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Mapa de Igrejas
  * Description: Cadastro e exibição de igrejas em um mapa interativo.
- * Version: 1.0
+ * Version: 1.0.0
  * Author: Josué Santos
  * Author URI: https://josuesantos.github.io/
  * License: GPL2
